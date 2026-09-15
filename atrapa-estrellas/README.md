@@ -6,7 +6,7 @@ video nunca sale del dispositivo). El paciente mueve los brazos para
 alcanzar estrellas en pantalla; al final se muestra puntaje, precisión y
 amplitud de movimiento alcanzada.
 
-Ruta pensada: `kineurog.com/games/atrapa-estrellas`.
+Ruta pensada: `games.kineurog.com/atrapa-estrellas`.
 
 ## Requisitos
 
@@ -18,7 +18,7 @@ Ruta pensada: `kineurog.com/games/atrapa-estrellas`.
 ## Probar localmente
 
 ```bash
-cd games/atrapa-estrellas
+cd atrapa-estrellas
 python3 -m http.server 8080
 # abrir http://localhost:8080
 ```
